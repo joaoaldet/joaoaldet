@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there! 👋 I'm João Aldet (🇧🇷)
 
-<!--
-**joaoaldet/joaoaldet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Instituto Nacional de Telecomunicações (Inatel), passionate about software development, programming languages, and building practical solutions through technology.
 
-Here are some ideas to get you started:
+Currently, I focus on improving my skills in software engineering, object-oriented programming, web development, and software architecture while developing projects that combine theory and practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technologies and interests:**
+- ☕ Java, C++ and Python development
+- 🌐 Web technologies (HTML, CSS and JavaScript)
+- 🧩 Object-Oriented Programming and Software Design
+- 🔧 Git, software development workflows and architecture concepts
+- 🌐 Computer networks and communication technologies
+
+**Beyond coding:**
+- 📚 Always learning new technologies and development practices
+- 🎮 Interested in technology, games and creative projects
+- 🎨 Exploring digital design and pixel art
+
+**Projects:**
+- Programming language and paradigm studies
+- Java applications using Object-Oriented Programming
+- Web applications and software engineering projects
+
+📫 **Find me:**
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao-aldet)
