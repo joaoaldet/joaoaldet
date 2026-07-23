@@ -1,26 +1,37 @@
-### Hi there! 👋 I'm João Aldet (🇧🇷)
+# João Aldet
 
-I'm a Software Engineering student at Instituto Nacional de Telecomunicações (Inatel), passionate about software development, programming languages, and building practical solutions through technology.
+Software Engineering student at Instituto Nacional de Telecomunicações (Inatel), interested in software development, programming languages, and technology.
 
-Currently, I focus on improving my skills in software engineering, object-oriented programming, web development, and software architecture while developing projects that combine theory and practice.
+Currently building projects with Java, C++, Python, and web technologies while exploring software architecture, object-oriented programming, and different programming paradigms.
 
-**Technologies and interests:**
-- ☕ Java, C++ and Python development
-- 🌐 Web technologies (HTML, CSS and JavaScript)
-- 🧩 Object-Oriented Programming and Software Design
-- 🔧 Git, software development workflows and architecture concepts
-- 🌐 Computer networks and communication technologies
+## Areas of interest
 
-**Beyond coding:**
-- 📚 Always learning new technologies and development practices
-- 🎮 Interested in technology, games and creative projects
-- 🎨 Exploring digital design and pixel art
+- Software Development
+- Object-Oriented Programming
+- Software Architecture
+- Web Development
+- Computer Networks
+- Programming Languages
 
-**Projects:**
-- Programming language and paradigm studies
-- Java applications using Object-Oriented Programming
-- Web applications and software engineering projects
+## Technologies
 
-📫 **Find me:**
+- Java
+- C++
+- Python
+- JavaScript
+- HTML/CSS
+- Git
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao-aldet)
+## Projects
+
+Some projects developed while learning and practicing software engineering concepts:
+
+- Programming Paradigms — implementations using different programming languages
+- CI/CD Pipeline Simulator — Java project modeling a software delivery pipeline
+- Academic Dashboard — web application using Web Components and JSON data
+- Shopping Cart System — Java application applying OOP concepts
+
+## Contact
+
+- LinkedIn: [João Aldet](https://www.linkedin.com/in/joao-aldet)
+- Email: joaovitorsaldet@gmail.com
