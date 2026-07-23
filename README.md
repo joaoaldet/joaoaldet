@@ -26,10 +26,10 @@ Currently building projects with Java, C++, Python, and web technologies while e
 
 Some projects developed while learning and practicing software engineering concepts:
 
-- Programming Paradigms — implementations using different programming languages
-- CI/CD Pipeline Simulator — Java project modeling a software delivery pipeline
-- Academic Dashboard — web application using Web Components and JSON data
-- Shopping Cart System — Java application applying OOP concepts
+- **Programming Paradigms** — implementations using different programming languages and paradigms
+- **CI/CD Pipeline Simulator** — Java project simulating a software delivery pipeline workflow
+- **Academic Dashboard** — web application using Web Components and JSON data
+- **Computer Sales System** — Java application applying Object-Oriented Programming concepts
 
 ## Contact
 
