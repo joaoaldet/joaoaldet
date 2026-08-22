@@ -9,6 +9,8 @@
 
 </div>
 
+## About me
+
 My academic journey began with my interest in the exact sciences, which naturally led me to explore technology and software development.
 
 Throughout my degree, I have also developed an interest in **entrepreneurship**, complementing my academic education with courses and experiences beyond the classroom.
