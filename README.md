@@ -1,18 +1,19 @@
 # João Aldet
 
-Software Engineering student at the Instituto Nacional de Telecomunicações (Inatel), interested in software development, programming languages, and technology.
+**Software Engineering Student · Inatel**
 
-Currently developing projects and academic work using Java, C++, Python, and web technologies, while exploring software architecture, object-oriented programming, programming paradigms, and data science.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joao-aldet)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:joaovitorsaldet@gmail.com)
 
-## Areas of Interest
+Software Engineering student at the **Instituto Nacional de Telecomunicações (Inatel)**, interested in software development, programming languages, and system design.
 
-* Software Development
-* Object-Oriented Programming
-* Software Architecture
-* Programming Languages
-* Web Development
-* Data Science
-* Computer Networks
+Currently developing academic and personal projects using **Java, C++, Python, and JavaScript**, while exploring object-oriented programming, software architecture, programming paradigms, web development, and data science.
+
+## About Me
+
+I am interested in understanding how software is designed, implemented, and structured. My studies have given me experience with different programming paradigms, object-oriented programming, software architecture, web development, computer networks, and data analysis.
+
+I enjoy exploring different approaches to solving problems and building projects that allow me to apply theoretical concepts in practice.
 
 ## Languages
 
@@ -21,14 +22,43 @@ Currently developing projects and academic work using Java, C++, Python, and web
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-## Projects
+## Areas of Interest
 
-* **Programming Paradigms** — implementations exploring different programming languages and paradigms
-* **CI/CD Pipeline Simulator** — Java project simulating a software delivery pipeline workflow
-* **Academic Dashboard** — web application using Web Components and JSON data
-* **Computer Sales System** — Java application applying Object-Oriented Programming concepts
+* Software Development
+* Object-Oriented Programming
+* Software Architecture
+* Programming Languages & Paradigms
+* Web Development
+* Data Science
+* Computer Networks
 
-## Contact
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joao-aldet)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:joaovitorsaldet@gmail.com)
+### [Programming Paradigms](https://github.com/joaoaldet/programming-paradigms)
+
+Exercises exploring multiple programming languages and paradigms through practical implementations.
+
+### CI/CD Pipeline Simulator
+
+A Java project simulating a software delivery pipeline, applying object-oriented programming, interfaces, inheritance, exceptions, and software design concepts.
+
+### Academic Dashboard
+
+A web application developed using Web Components and JSON data to provide an interactive academic dashboard.
+
+### Computer Sales System
+
+A Java application developed to practice object-oriented programming concepts through a computer sales management system.
+
+### Data Science
+
+Exercises and practical activities exploring fundamental concepts and techniques in data science using Jupyter notebooks.
+
+## Education
+
+**Instituto Nacional de Telecomunicações (Inatel)**
+Bachelor's Degree in Software Engineering
+
+---
+
+*Always learning, building, and exploring new ways to develop software.*
