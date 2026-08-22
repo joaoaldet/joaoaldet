@@ -15,7 +15,7 @@ Throughout my degree, I have also developed an interest in **entrepreneurship**,
 
 I am interested in software development, programming languages, and system design, with experience in **Java, C++, Python, and JavaScript**. My studies have allowed me to explore object-oriented programming, software architecture, programming paradigms, web development, computer networks, and data science.
 
-I have **advanced English proficiency** and am continuously working towards fluency. Outside of technology, I enjoy **playing chess**, exploring new subjects, and continuously learning beyond my academic field.
+I have **advanced English proficiency** and am continuously working towards fluency. Outside of technology, I have enjoyed **playing chess** and creating **pixel art for games** as hobbies for several years.
 
 ## Languages
 
