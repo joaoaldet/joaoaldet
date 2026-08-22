@@ -6,6 +6,8 @@ Software Engineering student at the **Instituto Nacional de Telecomunicações (
 
 Currently developing academic and personal projects using **Java, C++, Python, and JavaScript**, while exploring object-oriented programming, software architecture, programming paradigms, web development, and data science.
 
+## Contact
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joao-aldet)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:joaovitorsaldet@gmail.com)
 
@@ -38,21 +40,21 @@ I enjoy exploring different approaches to solving problems and building projects
 
 Exercises exploring multiple programming languages and paradigms through practical implementations.
 
-### CI/CD Pipeline Simulator
+### [CI/CD Pipeline Simulator](https://github.com/joaoaldet/ci-cd-pipeline-simulator)
 
-A Java project simulating a software delivery pipeline, applying object-oriented programming, interfaces, inheritance, exceptions, and software design concepts.
+A Java project simulating a software delivery pipeline, applying object-oriented programming, interfaces, inheritance, polymorphism, exception handling, file manipulation, and multithreading.
 
-### Academic Dashboard
+### [Academic Dashboard](https://github.com/joaoaldet/academic-dashboard)
 
-A web application developed using Web Components and JSON data to provide an interactive academic dashboard.
+A web-based academic dashboard built with native HTML, CSS, and JavaScript, using Web Components, Shadow DOM, and JSON data.
 
-### Computer Sales System
+### [Computer Sales System](https://github.com/joaoaldet/computer-sales-system)
 
-A Java application developed to practice object-oriented programming concepts through a computer sales management system.
+A Java console-based application developed to practice object-oriented programming concepts through a computer sales management system.
 
-### Data Science
+### [Data Science](https://github.com/joaoaldet/data-science)
 
-Exercises and practical activities exploring fundamental concepts and techniques in data science using Jupyter notebooks.
+Jupyter notebooks containing exercises and practical activities covering fundamental concepts and techniques in data science.
 
 ## Education
 
