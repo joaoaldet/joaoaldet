@@ -9,7 +9,7 @@
 
 </div>
 
-## About me
+## About Me
 
 My academic journey began with my interest in the exact sciences, which naturally led me to explore technology and software development.
 
