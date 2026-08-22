@@ -57,4 +57,4 @@ Jupyter notebooks containing exercises and practical activities covering fundame
 
 ---
 
-*Always learning, building, and exploring new ways to develop software.*
+*Always looking to challenge convention and pursue greater convenience.*
