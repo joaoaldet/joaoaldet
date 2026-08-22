@@ -1,13 +1,13 @@
-# João Aldet
+# João Vitor Aldet
 
-**Software Engineering Student · Inatel**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joao-aldet)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:joaovitorsaldet@gmail.com)
+**Software Engineering Student · 6th Semester · Inatel**
 
 Software Engineering student at the **Instituto Nacional de Telecomunicações (Inatel)**, interested in software development, programming languages, and system design.
 
 Currently developing academic and personal projects using **Java, C++, Python, and JavaScript**, while exploring object-oriented programming, software architecture, programming paradigms, web development, and data science.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joao-aldet)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:joaovitorsaldet@gmail.com)
 
 ## About Me
 
@@ -17,10 +17,10 @@ I enjoy exploring different approaches to solving problems and building projects
 
 ## Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 
 ## Areas of Interest
 
@@ -57,7 +57,7 @@ Exercises and practical activities exploring fundamental concepts and techniques
 ## Education
 
 **Instituto Nacional de Telecomunicações (Inatel)**
-Bachelor's Degree in Software Engineering
+Bachelor's Degree in Software Engineering · 6th Semester
 
 ---
 
