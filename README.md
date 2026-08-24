@@ -66,10 +66,6 @@ A Java console-based application developed to practice object-oriented programmi
 Jupyter notebooks containing exercises and practical activities covering fundamental concepts and techniques in data science.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaoaldet&show_icons=true&locale=en" alt="GitHub statistics" />
-</p>
-
 ---
 
 *Always looking to challenge convention and pursue greater convenience.*
