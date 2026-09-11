@@ -57,10 +57,6 @@ Outside of technology, I enjoy **playing chess** and creating **pixel art for ga
 ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 
-### ⚙️ Software Engineering
-
-**Object-Oriented Programming · Software Architecture · Programming Paradigms · CI/CD · Multithreading · Exception Handling**
-
 ---
 
 ## 📚 What I'm Learning
@@ -117,18 +113,6 @@ A Java console application developed to practice object-oriented programming con
 Jupyter notebooks containing exercises and practical activities covering fundamental concepts and techniques in data science.
 
 **Technologies:** Python • NumPy • Pandas • Jupyter
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoaldet\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaldet\&layout=compact\&langs_count=8\&theme=tokyonight)
-
-</div>
 
 ---
 
