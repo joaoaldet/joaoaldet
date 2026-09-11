@@ -45,7 +45,6 @@ Outside of technology, I enjoy **playing chess** and creating **pixel art for ga
 ### 🗄️ Databases & Data Science
 
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Python](https://skillicons.dev/icons?i=python)
 ![NumPy](https://skillicons.dev/icons?i=numpy)
 ![Pandas](https://skillicons.dev/icons?i=pandas)
