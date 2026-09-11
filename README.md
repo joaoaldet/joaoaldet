@@ -10,6 +10,8 @@
 
 </div>
 
+---
+
 ## 🧑🏻‍💻 About Me
 
 I am a **Software Engineering student at Inatel**, interested in technology, software development, programming languages, and system design.
@@ -20,72 +22,143 @@ I also have an interest in **entrepreneurship** and enjoy learning beyond the cl
 
 Outside of technology, I enjoy **playing chess** and creating **pixel art for games**.
 
-## Currently Learning
+---
 
-I am currently expanding my knowledge in **MySQL** and **Data Science**, exploring databases, data analysis, and practical applications using Python.
+## 🛠️ Technologies
 
-## Languages
+### 💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://skillicons.dev/icons?i=java)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
-## Technologies & Tools
+### 🌐 Web Development
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![JSON](https://skillicons.dev/icons?i=json)
 
-## Featured Projects
+**Web Components · Shadow DOM · REST APIs**
 
-### [Programming Paradigms](https://github.com/joaoaldet/programming-paradigms)
+### 🗄️ Databases & Data Science
 
-Exercises exploring multiple programming languages and paradigms through practical implementations.
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Python](https://skillicons.dev/icons?i=python)
+![NumPy](https://skillicons.dev/icons?i=numpy)
+![Pandas](https://skillicons.dev/icons?i=pandas)
+![Jupyter](https://skillicons.dev/icons?i=jupyter)
 
-### [CI/CD Pipeline Simulator](https://github.com/joaoaldet/ci-cd-pipeline-simulator)
+### 🔧 Tools & Platforms
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+
+### ⚙️ Software Engineering
+
+**Object-Oriented Programming · Software Architecture · Programming Paradigms · CI/CD · Multithreading · Exception Handling**
+
+---
+
+## 📚 What I'm Learning
+
+Currently, I am expanding my knowledge in:
+
+* **MySQL and databases**
+* **Data Science and data analysis**
+* **Python for practical applications**
+* **Web development**
+* **Software architecture and system design**
+* **Software Engineering practices**
+
+---
+
+## 🚀 Projects
+
+Here are some of the projects I have developed throughout my degree and personal studies:
+
+### 🔀 [Programming Paradigms](https://github.com/joaoaldet/programming-paradigms)
+
+Exercises exploring different programming languages and programming paradigms through practical implementations.
+
+**Technologies:** Java • C++ • Python • JavaScript
+
+---
+
+### ⚙️ [CI/CD Pipeline Simulator](https://github.com/joaoaldet/ci-cd-pipeline-simulator)
 
 A Java project simulating a software delivery pipeline, applying object-oriented programming, interfaces, inheritance, polymorphism, exception handling, file manipulation, and multithreading.
 
-### [Academic Dashboard](https://github.com/joaoaldet/academic-dashboard)
+**Technologies:** Java • OOP • CI/CD • Multithreading
+
+---
+
+### 🎓 [Academic Dashboard](https://github.com/joaoaldet/academic-dashboard)
 
 A web-based academic dashboard built with native HTML, CSS, and JavaScript, using Web Components, Shadow DOM, and JSON data.
 
-### [Computer Sales System](https://github.com/joaoaldet/computer-sales-system)
+**Technologies:** HTML5 • CSS3 • JavaScript • Web Components • Shadow DOM • JSON
 
-A Java console-based application developed to practice object-oriented programming concepts through a computer sales management system.
+---
 
-### [Data Science](https://github.com/joaoaldet/data-science)
+### 💻 [Computer Sales System](https://github.com/joaoaldet/computer-sales-system)
+
+A Java console application developed to practice object-oriented programming concepts through a computer sales management system.
+
+**Technologies:** Java • OOP
+
+---
+
+### 📊 [Data Science](https://github.com/joaoaldet/data-science)
 
 Jupyter notebooks containing exercises and practical activities covering fundamental concepts and techniques in data science.
-</p>
 
-📊 GitHub Statistics
+**Technologies:** Python • NumPy • Pandas • Jupyter
 
-João's GitHub stats
+---
 
+## 📊 GitHub Statistics
 
+<div align="center">
 
-Top Languages
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoaldet\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&count_private=true)
 
-🔥 Contribution Streak
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaldet\&layout=compact\&langs_count=8\&theme=tokyonight)
 
-GitHub Streak
+</div>
 
-🐍 My Contributions
+---
 
-Snake animation
+## 🔥 Contribution Streak
 
-📈 Activity
+<div align="center">
 
-João's Activity Graph
+![GitHub Streak](https://streak-stats.demolab.com?user=joaoaldet\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/joaoaldet/joaoaldet/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📈 Activity
+
+<div align="center">
+
+![João's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaoaldet\&theme=tokyo-night\&hide_border=true)
+
+</div>
 
 ---
 
