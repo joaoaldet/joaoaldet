@@ -33,15 +33,14 @@ Outside of technology, I enjoy **playing chess** and creating **pixel art for ga
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 
-### 🌐 Web Development
+#### 🌐 Web Development
 
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![JSON](https://skillicons.dev/icons?i=json)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white)
-![Web Components](https://img.shields.io/badge/Web%20Components-29ABE2?style=flat)
-![Shadow DOM](https://img.shields.io/badge/Shadow%20DOM-29ABE2?style=flat)
+
+*Also working with REST APIs, Web Components, and Shadow DOM.*
 
 ### 🗄️ Databases & Data Science
 
