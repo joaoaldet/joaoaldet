@@ -1,0 +1,43 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: joaoaldet
+          options: theme=tokyo-night&hide_border=true
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fix permissions
+        run: sudo chown -R $(whoami) dist
+
+      - name: Publish to output branch
+        run: |
+          cd dist
+
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/joaoaldet/joaoaldet.git
+
+          # traz o conteúdo atual da branch output (se existir) para não apagar
+          # arquivos gerados por outros workflows (ex: a snake)
+          git fetch origin output --depth=1 || true
+          git checkout -B output origin/output || git checkout -B output
+
+          git add .
+          git commit -m "Update activity graph" || echo "Nada para commitar"
+          git push -f origin output
