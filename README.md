@@ -65,12 +65,12 @@ Outside of technology, I enjoy **playing chess** and creating **pixel art for ga
 
 Currently, I am expanding my knowledge in:
 
-* **MySQL and databases**
-* **Data Science and data analysis**
-* **Python for practical applications**
-* **Web development**
-* **Software architecture and system design**
-* **Software Engineering practices**
+* ☕ Java
+* 🗄️ SQL
+* 🟨 JavaScript
+* 🔀 Git and GitHub
+* 🧩 Software Engineering
+* 🖥️ Web Application Development
 
 ---
 
