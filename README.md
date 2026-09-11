@@ -140,7 +140,7 @@ Jupyter notebooks containing exercises and practical activities covering fundame
 
 <div align="center">
 
-![João's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaoaldet\&theme=tokyo-night\&hide_border=true)
+![João's Activity Graph](https://raw.githubusercontent.com/joaoaldet/joaoaldet/output/activity-graph.svg)
 
 </div>
 
