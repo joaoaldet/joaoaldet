@@ -1,6 +1,6 @@
 <div align="center">
 
-# João Vitor Aldet
+# Hi, I'm João Vitor!
 
 **Software Engineering · 6th Semester · Inatel**
 
@@ -66,6 +66,26 @@ A Java console-based application developed to practice object-oriented programmi
 
 Jupyter notebooks containing exercises and practical activities covering fundamental concepts and techniques in data science.
 </p>
+
+📊 GitHub Statistics
+
+João's GitHub stats
+
+
+
+Top Languages
+
+🔥 Contribution Streak
+
+GitHub Streak
+
+🐍 My Contributions
+
+Snake animation
+
+📈 Activity
+
+João's Activity Graph
 
 ---
 
