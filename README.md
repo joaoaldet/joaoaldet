@@ -10,15 +10,15 @@
 
 </div>
 
-## About Me
+## 🧑🏻‍💻 About Me
 
-My academic journey began with my interest in the exact sciences, which naturally led me to explore technology and software development.
+I am a **Software Engineering student at Inatel**, interested in technology, software development, programming languages, and system design.
 
-Throughout my degree, I have also developed an interest in **entrepreneurship**, complementing my academic education with courses and experiences beyond the classroom.
+Throughout my degree, I have explored **object-oriented programming, software architecture, web development, databases, computer networks, and data science**, with experience in **Java, C++, Python, JavaScript, and SQL**.
 
-I am interested in software development, programming languages, and system design, with experience in **Java, C++, Python, JavaScript, and SQL**. My studies have allowed me to explore object-oriented programming, software architecture, programming paradigms, web development, computer networks, databases, and data science.
+I also have an interest in **entrepreneurship** and enjoy learning beyond the classroom through courses and practical projects.
 
-Outside of technology, I have enjoyed **playing chess** and creating **pixel art for games** as hobbies for quite some time.
+Outside of technology, I enjoy **playing chess** and creating **pixel art for games**.
 
 ## Currently Learning
 
