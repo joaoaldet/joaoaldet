@@ -39,12 +39,14 @@ Outside of technology, I enjoy **playing chess** and creating **pixel art for ga
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![JSON](https://skillicons.dev/icons?i=json)
-
-**Web Components · Shadow DOM · REST APIs**
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white)
+![Web Components](https://img.shields.io/badge/Web%20Components-29ABE2?style=flat)
+![Shadow DOM](https://img.shields.io/badge/Shadow%20DOM-29ABE2?style=flat)
 
 ### 🗄️ Databases & Data Science
 
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Python](https://skillicons.dev/icons?i=python)
 ![NumPy](https://skillicons.dev/icons?i=numpy)
 ![Pandas](https://skillicons.dev/icons?i=pandas)
@@ -55,6 +57,8 @@ Outside of technology, I enjoy **playing chess** and creating **pixel art for ga
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![PyCharm](https://skillicons.dev/icons?i=pycharm)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 
 ---
