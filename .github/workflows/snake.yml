@@ -31,10 +31,13 @@ jobs:
           git init
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/joaoaldet/joaoaldet.git
+
+          # traz o conteúdo atual da branch output (se existir) para não apagar
+          # arquivos gerados por outros workflows (ex: o activity graph)
+          git fetch origin output --depth=1 || true
+          git checkout -B output origin/output || git checkout -B output
 
           git add .
-          git commit -m "Update contribution snake"
-
-          git branch -M output
-          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/joaoaldet/joaoaldet.git
+          git commit -m "Update contribution snake" || echo "Nada para commitar"
           git push -f origin output
