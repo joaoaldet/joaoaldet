@@ -33,7 +33,7 @@ Outside of technology, I enjoy **playing chess** and creating **pixel art for ga
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 
-#### 🌐 Web Development
+### 🌐 Web Development
 
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
