@@ -54,8 +54,8 @@ Outside of technology, I enjoy **playing chess** and creating **pixel art for ga
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 ![PyCharm](https://skillicons.dev/icons?i=pycharm)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 
@@ -66,25 +66,16 @@ Outside of technology, I enjoy **playing chess** and creating **pixel art for ga
 Currently, I am expanding my knowledge in:
 
 * ☕ Java
-* 🗄️ SQL
 * 🟨 JavaScript
-* 🔀 Git and GitHub
+* 🗄️ SQL
 * 🧩 Software Engineering
-* 🖥️ Web Application Development
+* 🔀 Git and GitHub
 
 ---
 
 ## 🚀 Projects
 
 Here are some of the projects I have developed throughout my degree and personal studies:
-
-### 🔀 [Programming Paradigms](https://github.com/joaoaldet/programming-paradigms)
-
-Exercises exploring different programming languages and programming paradigms through practical implementations.
-
-**Technologies:** Java • C++ • Python • JavaScript
-
----
 
 ### ⚙️ [CI/CD Pipeline Simulator](https://github.com/joaoaldet/ci-cd-pipeline-simulator)
 
@@ -102,19 +93,27 @@ A web-based academic dashboard built with native HTML, CSS, and JavaScript, usin
 
 ---
 
-### 💻 [Computer Sales System](https://github.com/joaoaldet/computer-sales-system)
-
-A Java console application developed to practice object-oriented programming concepts through a computer sales management system.
-
-**Technologies:** Java • OOP
-
----
-
 ### 📊 [Data Science](https://github.com/joaoaldet/data-science)
 
 Jupyter notebooks containing exercises and practical activities covering fundamental concepts and techniques in data science.
 
 **Technologies:** Python • NumPy • Pandas • Jupyter
+
+---
+
+### 🔀 [Programming Paradigms](https://github.com/joaoaldet/programming-paradigms)
+
+Exercises exploring different programming languages and programming paradigms through practical implementations.
+
+**Technologies:** Java • C++ • Python • JavaScript
+
+---
+
+### 💻 [Computer Sales System](https://github.com/joaoaldet/computer-sales-system)
+
+A Java console application developed to practice object-oriented programming concepts through a computer sales management system.
+
+**Technologies:** Java • OOP
 
 ---
 
