@@ -27,6 +27,8 @@ jobs:
       - name: Publish to output branch
         run: |
           cd dist
+          mkdir -p /tmp/generated
+          mv *.svg /tmp/generated/
 
           git init
           git config user.name "github-actions[bot]"
@@ -37,6 +39,8 @@ jobs:
           # arquivos gerados por outros workflows (ex: o activity graph)
           git fetch origin output --depth=1 || true
           git checkout -B output origin/output || git checkout -B output
+
+          cp /tmp/generated/*.svg .
 
           git add .
           git commit -m "Update contribution snake" || echo "Nada para commitar"
