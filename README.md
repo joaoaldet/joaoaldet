@@ -37,19 +37,14 @@ Outside of technology, I enjoy **playing chess** and creating **pixel art for ga
 
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-*Also working with REST APIs, Web Components, and Shadow DOM.*
+*Working with JSON, REST APIs, Web Components, and Shadow DOM.*
 
-### 🗄️ Databases
+### 🗄️ Databases & Data Science
 
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### 📊 Data Science
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+*Data analysis and manipulation using Python (NumPy, Pandas, and Jupyter).*
 
 ### 🔧 Tools & Platforms
 
