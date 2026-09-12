@@ -37,15 +37,16 @@ Outside of technology, I enjoy **playing chess** and creating **pixel art for ga
 
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![JSON](https://skillicons.dev/icons?i=json)
 
 *Also working with REST APIs, Web Components, and Shadow DOM.*
 
-### 🗄️ Databases & Data Science
+### 🗄️ Databases
 
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Python](https://skillicons.dev/icons?i=python)
+
+### 📊 Data Science
+
 ![NumPy](https://skillicons.dev/icons?i=numpy)
 ![Pandas](https://skillicons.dev/icons?i=pandas)
 ![Jupyter](https://skillicons.dev/icons?i=jupyter)
