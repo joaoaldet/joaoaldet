@@ -44,7 +44,7 @@ Outside of technology, I enjoy **playing chess** and creating **pixel art for ga
 
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-*Data analysis and manipulation using Python (NumPy, Pandas, and Jupyter).*
+*Data analysis and manipulation using Python (NumPy, Pandas, Jupyter, and Google Colab).
 
 ### 🔧 Tools & Platforms
 
